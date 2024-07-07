@@ -21,7 +21,7 @@ acceptance criteria’s were maintained throughout the project.
 - Step 1 : Load data into SQL Server and clean the data.
 
   ## Following are the code for cleaning of data.
-
+![SQL_code -imageonline co-merged](https://github.com/ImtyazAhamad/Power-BI-Projects/assets/120785398/d5689e01-0045-48bc-9f5a-d832d1414128)
 
   
 - Step 2 : Load the cleaned data into the power BI
