@@ -19,6 +19,11 @@ acceptance criteria’s were maintained throughout the project.
 ### Steps followed 
 
 - Step 1 : Load data into SQL Server and clean the data.
+
+  ## Following are the code for cleaning of data.
+
+
+  
 - Step 2 : Load the cleaned data into the power BI
 - Step 3 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 4 : Made necessary changes such as data types, merging tables, and add calculated columns to make required dashboard.
